@@ -1,0 +1,6 @@
+*.o
+objs/
+*.ppm
+prog6_kmeans/data.dat
+*.png
+*.log
